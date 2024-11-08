@@ -1,0 +1,18 @@
+.content-section{
+    display:flex;
+    flex:wrap;
+}
+.contact-content{
+    display:flex;
+}
+.col-half-contact-info{
+    padding:30px 0 0 150px;
+    width:50%;
+}
+.row{
+    display:flex;
+}
+.col-half-contact-form{
+    
+    padding:30px 150px 0 100px;
+}
